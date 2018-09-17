@@ -1,0 +1,2 @@
+api.flagsilk.com
+dashboard.flagsilk.com
